@@ -494,6 +494,16 @@ footer a {
         "introH2 introImg"
         "introP introImg";
     }
+
+    #plan div, #testimonials div {
+        grid-template-columns: auto auto auto auto;
+    }
+
+    #contact form {
+        display: grid;
+        grid-template-columns: auto auto auto;
+    }
 }
+
   
   
