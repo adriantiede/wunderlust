@@ -469,7 +469,7 @@ footer a {
     }
 
     #menu-toggle li:last-of-type {
-        margin-right: none;
+        margin-right: 0;
     }
 
     #intro h2 {
